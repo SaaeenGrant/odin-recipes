@@ -9,21 +9,21 @@
 
 a {text-decoration: none;}
 .link-btn {cursor: pointer;}
+li {list-style: none;}
 
 body {
     font-family: 'Playfair Display', serif;
-    background-color: var(--light);
+    background-color: var(--pink);
 }
 
 
 /*** Variables ***/
 :root {
-    --primary: #055816;
-    --secondary: #8BCA67;
-    --light: #edf0ed;
-    --dark: #1e1f1d;
-    --accent: #F9D976;
-    --hover: #f9d876b3;
+    --light: #faf4ea;
+    --dark: #1a1103;
+    --secondary: #E3B261;
+    --primary: #644a1f;
+    --hover: #644a1f9a;
 }
 
 /*** Utilitie Classes ***/
